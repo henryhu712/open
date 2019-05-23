@@ -96,7 +96,7 @@
 - Indy [US]
 - Natalie [UK]
 - Lara [South Africa]
-- Eugene [Urkiren]
+- Eugene [Ukraine]
 - Chris [UK]
 
 
