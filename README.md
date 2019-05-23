@@ -5,11 +5,18 @@
 
 
 
-## The disatavanget of Wechat Group Class
+## The pros and cons of Wechat Group Class
 
 
 
-## The advantage of Wechat Group Class
+## Teachers
+
+- Indy [US]
+- Natalie [UK]
+- Lara [South Africa]
+- Eugene [Ukraine]
+- Chris [UK]
+
 
 
 
@@ -90,14 +97,6 @@
 
 - 开放平台
 
-
-## Teachers
-
-- Indy [US]
-- Natalie [UK]
-- Lara [South Africa]
-- Eugene [Ukraine]
-- Chris [UK]
 
 
 
