@@ -11,6 +11,7 @@
 
 ## Teachers
 
+- Elena [UK]
 - Indy [US]
 - Natalie [UK]
 - Lara [South Africa]
@@ -77,7 +78,7 @@
 
 ## Roadmap
 
-- 公开课，每周2-3次公开课，每次半小时
+- 公开课，每周1-2次公开课，每次半小时
 
 - 小班课
 
